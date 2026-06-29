@@ -1,0 +1,5 @@
+Target: scanme.nmap.org
+Scan Started: 2026-06-29 11:50:16.154157
+
+[OPEN ] Port 80
+[OPEN ] Port 22
